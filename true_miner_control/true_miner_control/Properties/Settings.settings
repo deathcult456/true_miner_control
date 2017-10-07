@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="true_miner_control.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="save_textbox_dag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">31</Value>
+    </Setting>
+    <Setting Name="save_textbox_equi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">430</Value>
+    </Setting>
+    <Setting Name="save_textbox_dag_link" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="save_textbox_equi_link" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="save_textbox_W" Type="System.String" Scope="User">
+      <Value Profile="(Default)">700</Value>
+    </Setting>
+    <Setting Name="save_textbox_prixW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.1449</Value>
+    </Setting>
+    <Setting Name="save_textbox_dag_decred" Type="System.String" Scope="User">
+      <Value Profile="(Default)">168</Value>
+    </Setting>
+    <Setting Name="save_textbox_decred" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1680</Value>
+    </Setting>
+    <Setting Name="save_textbox_dag_sia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">183</Value>
+    </Setting>
+    <Setting Name="save_textbox_sia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1830</Value>
+    </Setting>
+    <Setting Name="save_textbox_dag_lbry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">173</Value>
+    </Setting>
+    <Setting Name="save_textbox_lbry" Type="System.String" Scope="User">
+      <Value Profile="(Default)">165</Value>
+    </Setting>
+    <Setting Name="save_textbox_pascal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1632</Value>
+    </Setting>
+    <Setting Name="save_textbox_dag_pascal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">163</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
