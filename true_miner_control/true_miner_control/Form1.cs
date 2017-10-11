@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -307,7 +307,7 @@ namespace true_miner_control
         private void timer2_Tick(object sender, EventArgs e)
         {
             //------------------------------IF---------------------------------------------------------------------
-
+            /*
             if (BTC_day_dag > BTC_day_equi)
             {
                 mining_renta = "Dag";
@@ -320,6 +320,7 @@ namespace true_miner_control
                 label_resultat.Text = "faut miner le ZCASH: " + Math.Round((BTC_day_equi * 1000), 3) + " mBTC/day";
                 //label_resultat_euro.Text = EUR_by_day_equi + " EUR/day   " + (double.Parse(EUR_by_day_equi)) * 30 + "EUR/MONTH";
             }
+            */
             //---------------------------------------------------------------------------------------------------
 
             if (textBox_dag_link.Text != "" || textBox_equi_link.Text != "")
